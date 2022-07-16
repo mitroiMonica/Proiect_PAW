@@ -1,0 +1,13 @@
+D:\PAW-programarea aplicatiilor windows\PROIECT\PROIECT_MITROI_DANIELA_MONICA\bin\Debug\PROIECT_MITROI_DANIELA_MONICA.exe.config
+D:\PAW-programarea aplicatiilor windows\PROIECT\PROIECT_MITROI_DANIELA_MONICA\bin\Debug\PROIECT_MITROI_DANIELA_MONICA.exe
+D:\PAW-programarea aplicatiilor windows\PROIECT\PROIECT_MITROI_DANIELA_MONICA\bin\Debug\PROIECT_MITROI_DANIELA_MONICA.pdb
+D:\PAW-programarea aplicatiilor windows\PROIECT\PROIECT_MITROI_DANIELA_MONICA\obj\Debug\PROIECT_MITROI_DANIELA_MONICA.csprojAssemblyReference.cache
+D:\PAW-programarea aplicatiilor windows\PROIECT\PROIECT_MITROI_DANIELA_MONICA\obj\Debug\PROIECT_MITROI_DANIELA_MONICA.Form1.resources
+D:\PAW-programarea aplicatiilor windows\PROIECT\PROIECT_MITROI_DANIELA_MONICA\obj\Debug\PROIECT_MITROI_DANIELA_MONICA.Properties.Resources.resources
+D:\PAW-programarea aplicatiilor windows\PROIECT\PROIECT_MITROI_DANIELA_MONICA\obj\Debug\PROIECT_MITROI_DANIELA_MONICA.csproj.GenerateResource.cache
+D:\PAW-programarea aplicatiilor windows\PROIECT\PROIECT_MITROI_DANIELA_MONICA\obj\Debug\PROIECT_MITROI_DANIELA_MONICA.csproj.CoreCompileInputs.cache
+D:\PAW-programarea aplicatiilor windows\PROIECT\PROIECT_MITROI_DANIELA_MONICA\obj\Debug\PROIECT_MITROI_DANIELA_MONICA.exe
+D:\PAW-programarea aplicatiilor windows\PROIECT\PROIECT_MITROI_DANIELA_MONICA\obj\Debug\PROIECT_MITROI_DANIELA_MONICA.pdb
+D:\PAW-programarea aplicatiilor windows\PROIECT\PROIECT_MITROI_DANIELA_MONICA\obj\Debug\PROIECT_MITROI_DANIELA_MONICA.Sondaj.resources
+D:\PAW-programarea aplicatiilor windows\PROIECT\PROIECT_MITROI_DANIELA_MONICA\obj\Debug\PROIECT_MITROI_DANIELA_MONICA.Admin.resources
+D:\PAW-programarea aplicatiilor windows\PROIECT\PROIECT_MITROI_DANIELA_MONICA\obj\Debug\PROIECT_MITROI_DANIELA_MONICA.AlegereFirma.resources
